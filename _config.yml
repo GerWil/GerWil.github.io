@@ -15,7 +15,7 @@ keywords: DNA nanotechnology, DNA origami, self assembly, academic website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: gerrit.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://gerritwilkens.github.io    # the base hostname & protocol for your site
+url: https://gerwil.github.io    # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: /impressum/

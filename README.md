@@ -2,7 +2,7 @@
 
 Source code for my academic website:
 
-https://gerritwilkens.github.io
+https://gerwil.github.io
 
 This website is based on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme for academics, with custom modifications.
 
