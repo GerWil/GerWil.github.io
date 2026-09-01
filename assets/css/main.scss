@@ -22,18 +22,40 @@
 @use "typography";
 @use "navbar";
 @use "footer";
-@use "blog";
 @use "publications";
 @use "components";
 @use "utilities";
-
-// Other specialized styles
-@use "distill";
-@use "cv";
-@use "tabs";
-@use "teachings";
-@use "typograms";
 @use "font-awesome/fontawesome";
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+
+.light-mode-img {
+  display: block;
+}
+
+.dark-mode-img {
+  display: none;
+}
+
+html[data-theme='dark'] .light-mode-img {
+  display: none;
+}
+
+html[data-theme='dark'] .dark-mode-img {
+  display: block;
+}
+
+footer .container {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+footer .container a {
+  color: #888 !important;
+}
+
+footer .container a:hover {
+  color: #666 !important;
+}
