@@ -9,15 +9,12 @@ Angaben gemäß § 5 DDG
 
 Dr. Gerrit D. Wilkens  
 
-Affiliation: 
-Hybrid Nanostructures Group 
-Universität Potsdam 
-Am Neuen Palais 10 
-14469 Potsdam 
+Zum Kahleberg 30 
+14478 Potsdam 
 Deutschland  
 
 Kontakt: 
-E-Mail: vorname.nachname@uni-potsdam.de  
+E-Mail: gerwilkens@gmail.com  
 
 Verantwortlich für den Inhalt nach § 18 MStV  
 

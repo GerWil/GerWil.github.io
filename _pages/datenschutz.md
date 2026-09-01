@@ -29,10 +29,8 @@ Bei einer Kontaktaufnahme per E-Mail werden die übermittelten Daten ausschließ
 
 Dr. Gerrit D. Wilkens
 
-Hybrid Nanostructures Group
-Universität Potsdam
-Am Neuen Palais 10
-14469 Potsdam
+Zum Kahleberg 30
+14478 Potsdam
 Deutschland
 
-E-Mail: [vorname.nachname@uni-potsdam.de](mailto:vorname.nachname@uni-potsdam.de)
+E-Mail: [gerwilkens@gmail.com](mailto:gerwilkens@gmail.com)
