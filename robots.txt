@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gerritwilkens.github.io/sitemap.xml
+Sitemap: https://gerwil.github.io/sitemap.xml
